@@ -1,16 +1,20 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="hero_ai_graphic.png">
-    <img src="hero_ai_graphic.png" alt="Kartik Pawar" width="100%" style="max-width: 800px; border-radius: 12px;">
-  </picture>
+  <img src="https://img.shields.io/badge/10%2B_Projects_Shipped-00E5FF?style=flat-square" alt="Projects">
+  <img src="https://img.shields.io/badge/24_hr_Ship_Speed-27c93f?style=flat-square" alt="Ship Speed">
+  <img src="https://img.shields.io/badge/50%2B_APIs_Integrated-7C3AED?style=flat-square" alt="APIs">
+  <img src="https://img.shields.io/badge/Available_for_Hire-FF6B35?style=flat-square" alt="Hire">
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Kartik+Pawar;AI+SaaS+Builder;Automation+Expert" alt="Typing SVG" />
+  <code style="font-size: 2.5rem; font-weight: 700; background: linear-gradient(135deg, #00E5FF, #7C3AED); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+    Kartik Pawar
+  </code>
 </h1>
 
 <p align="center">
-  <b>I build AI systems that <span style="color: #00E5FF;">think & ship.</span></b>
+  <b>AI SaaS Builder <span style="color: #666;">&</span> Automation Expert</b>
+  <br>
+  <i>Building AI systems that think & ship — from idea to production in under 24 hours.</i>
 </p>
 
 <p align="center">
@@ -23,7 +27,10 @@
   <a href="https://kartikpawarportfolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=About.me&logoColor=black" alt="Portfolio">
   </a>
-  <img src="https://img.shields.io/badge/Status-Available_for_Hire-27c93f?style=for-the-badge" alt="Available for Hire">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:00E5FF,100:7C3AED&height=120&section=header&textBg=false&fontColor=00E5FF" width="100%">
 </p>
 
 ---
@@ -128,15 +135,6 @@ Currently leveling up at **Banao Technologies** as a Data Engineering Intern whi
 
 - ✅ 1K+ Posts Scheduled
 - ✅ 24/7 Auto-Pilot Mode
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikpawar&show_icons=true&theme=dark&bg_color=080808&title_color=00E5FF&icon_color=00E5FF&border_color=333&hide_border=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikpawar&theme=dark&background=080808&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&hide_border=true" alt="GitHub Streak" height="170">
-</p>
 
 ---
 
